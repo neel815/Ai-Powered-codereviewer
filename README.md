@@ -26,6 +26,3 @@ An interactive AI-powered code review tool that allows users to write, edit, and
 - OpenAI API (or your custom AI logic)  
 
 ---
-
-## 📂 Project Structure  
-
