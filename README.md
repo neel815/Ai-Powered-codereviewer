@@ -23,6 +23,5 @@ An interactive AI-powered code review tool that allows users to write, edit, and
 
 ### Backend:  
 - Node.js & Express  
-- OpenAI API (or your custom AI logic)  
+- Gemini API (or your custom AI logic)  
 
----
